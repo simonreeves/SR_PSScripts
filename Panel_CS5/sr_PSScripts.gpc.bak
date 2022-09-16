@@ -1,0 +1,13 @@
+<Panel name="sr_PSScripts" height="220" width="300">
+  <DisplayObjects>
+    <scriptfile-button toolTip="Run JavaScript File" x="8" y="8" 	width="105" height="24"  	caption="SaveDiffuse" 			scripturl="C:\Users\admin\Dropbox\Photoshop_Scripts\sr_SaveDiffuse_v1.0.jsx"/>
+	<scriptfile-button toolTip="Run JavaScript File" x="8" y="39"	width="105" height="24" 	caption="SaveSpec" 				scripturl="C:\Users\admin\Dropbox\Photoshop_Scripts\sr_SaveSpec_v1.0.jsx"/>
+    <scriptfile-button toolTip="Run JavaScript File" x="8" y="70" 	width="105" height="24" 	caption="SaveBump" 				scripturl="C:\Users\admin\Dropbox\Photoshop_Scripts\sr_SaveBump_v1.0.jsx"/>
+	<scriptfile-button toolTip="Run JavaScript File" x="8" y="101"	width="105" height="24" 	caption="SaveMatte" 			scripturl="C:\Users\admin\Dropbox\Photoshop_Scripts\sr_SaveMatte_v1.0.jsx"/>
+	
+	<scriptfile-button toolTip="Run JavaScript File" x="121" y="8" 	width="146" height="24"  	caption="RenameLayerToDoc" 		scripturl="C:\Users\admin\Dropbox\Photoshop_Scripts\sr_RenameLayerToDoc_v1.0.jsx"/>
+	<scriptfile-button toolTip="Run JavaScript File" x="121" y="39" 	width="146" height="24"  	caption="DuplicateTo1stDoc" 	scripturl="C:\Users\admin\Dropbox\Photoshop_Scripts\sr_DuplicateToFirstDoc_v1.0.jsx"/>
+	<scriptfile-button toolTip="Run JavaScript File" x="121" y="70" 	width="146" height="24"  	caption="Close" 	scripturl="C:\Users\admin\Dropbox\Photoshop_Scripts\sr_Close_v1.0.jsx"/>	
+	
+  </DisplayObjects>
+</Panel>

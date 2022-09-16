@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asf locale="en_US" version="1.0" xmlns="http://ns.adobe.com/asf">
+  <str name="Configurator/Accordion/Canvas###32" translate="yes">
+    <val>Accordion Pane 1</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###31" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###33" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Container/Accordion/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Container/Canvas/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key###1" translate="yes">
+    <val>SaveDiffuse</val>
+  </str>
+  <str name="Configurator/key###10" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/key###11" translate="yes">
+    <val>true</val>
+  </str>
+  <str name="Configurator/key###12" translate="yes">
+    <val>Z:\Dropbox\Photoshop_Scripts\sr_SaveBump_v1.0.jsx</val>
+  </str>
+  <str name="Configurator/key###13" translate="yes">
+    <val>SaveMatte</val>
+  </str>
+  <str name="Configurator/key###14" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/key###15" translate="yes">
+    <val>true</val>
+  </str>
+  <str name="Configurator/key###16" translate="yes">
+    <val>Z:\Dropbox\Photoshop_Scripts\sr_SaveMatte_v1.0.jsx</val>
+  </str>
+  <str name="Configurator/key###17" translate="yes">
+    <val>RenameLayerToDoc</val>
+  </str>
+  <str name="Configurator/key###18" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/key###19" translate="yes">
+    <val>true</val>
+  </str>
+  <str name="Configurator/key###2" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/key###20" translate="yes">
+    <val>Z:\Dropbox\Photoshop_Scripts\sr_RenameLayerToDoc_v1.0.jsx</val>
+  </str>
+  <str name="Configurator/key###21" translate="yes">
+    <val>DuplicateTo1stDoc</val>
+  </str>
+  <str name="Configurator/key###22" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/key###23" translate="yes">
+    <val>true</val>
+  </str>
+  <str name="Configurator/key###24" translate="yes">
+    <val>Z:\Dropbox\Photoshop_Scripts\sr_DuplicateToFirstDoc_v1.0.jsx</val>
+  </str>
+  <str name="Configurator/key###25" translate="yes">
+    <val>Close</val>
+  </str>
+  <str name="Configurator/key###26" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/key###27" translate="yes">
+    <val>true</val>
+  </str>
+  <str name="Configurator/key###28" translate="yes">
+    <val>Z:\Dropbox\Photoshop_Scripts\sr_Close_v1.0.jsx</val>
+  </str>
+  <str name="Configurator/key###3" translate="yes">
+    <val>true</val>
+  </str>
+  <str name="Configurator/key###34" translate="yes">
+    <val>SaveGlossiness</val>
+  </str>
+  <str name="Configurator/key###35" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/key###36" translate="yes">
+    <val>true</val>
+  </str>
+  <str name="Configurator/key###37" translate="yes">
+    <val>Z:\Dropbox\Photoshop_Scripts\sr_SaveGlossiness_v1.0.jsx</val>
+  </str>
+  <str name="Configurator/key###38" translate="yes">
+    <val>SaveReflection    &lt;ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/key###21" toolTip="$$$/Configurator/key###22" cfgVisible="$$$/Configurator/key###23" fileUrl="$$$/Configurator/key###24" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="true" x="121" y="39" width="146" height="24"/&gt;    &lt;ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/key###25" toolTip="$$$/Configurator/key###26" cfgVisible="$$$/Configurator/key###27" fileUrl="$$$/Configurator/key###28" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="true" x="121" y="70" width="146" height="24"/&gt;</val>
+  </str>
+  <str name="Configurator/key###39" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/key###4" translate="yes">
+    <val>Z:\Dropbox\Photoshop_Scripts\sr_SaveDiffuse_v1.0.jsx</val>
+  </str>
+  <str name="Configurator/key###40" translate="yes">
+    <val>true</val>
+  </str>
+  <str name="Configurator/key###41" translate="yes">
+    <val>C:\Dropbox\Photoshop_Scripts\sr_SaveReflection_v1.0.jsx</val>
+  </str>
+  <str name="Configurator/key###42" translate="yes">
+    <val>SaveTransparency</val>
+  </str>
+  <str name="Configurator/key###43" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/key###44" translate="yes">
+    <val>true</val>
+  </str>
+  <str name="Configurator/key###45" translate="yes">
+    <val>Z:\Dropbox\Photoshop_Scripts\sr_SaveTransparency_v1.0.jsx</val>
+  </str>
+  <str name="Configurator/key###46" translate="yes">
+    <val>AlphaMaskGroup</val>
+  </str>
+  <str name="Configurator/key###47" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/key###48" translate="yes">
+    <val>true</val>
+  </str>
+  <str name="Configurator/key###49" translate="yes">
+    <val>Z:\Dropbox\Photoshop_Scripts\sr_AlphaMaskGroup_v1.0.jsx</val>
+  </str>
+  <str name="Configurator/key###5" translate="yes">
+    <val>SaveSpec</val>
+  </str>
+  <str name="Configurator/key###6" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/key###7" translate="yes">
+    <val>true</val>
+  </str>
+  <str name="Configurator/key###8" translate="yes">
+    <val>Z:\Dropbox\Photoshop_Scripts\sr_SaveSpec_v1.0.jsx</val>
+  </str>
+  <str name="Configurator/key###9" translate="yes">
+    <val>SaveBump</val>
+  </str>
+  <str name="Configurator/key_###30" translate="yes">
+    <val/>
+  </str>
+</asf>

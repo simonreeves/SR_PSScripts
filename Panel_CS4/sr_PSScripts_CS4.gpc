@@ -1,0 +1,7 @@
+<Panel name="sr_PSScripts" height="258" width="300">
+  <DisplayObjects>
+    <scriptfile-button toolTip="Run JavaScript File" x="8" y="8" width="94" height="24" iconRef="Script-File-Icon" iconOverRef="Script-File-Over-Icon" caption="Save Diffuse" scripturl="C:\Users\Admin\Dropbox\Photoshop_Scripts\sr_SaveDiffuse_v1.0.jsx"/>
+    <scriptfile-button toolTip="Run JavaScript File" x="8" y="40" width="94" height="24" iconRef="Script-File-Icon" iconOverRef="Script-File-Over-Icon" caption="Script file" scripturl="C:\Users\Admin\Dropbox\Photoshop_Scripts\sr_SaveBump_v1.0.jsx"/>
+    <scriptfile-button toolTip="Run JavaScript File" x="127" y="10" width="155" height="24" iconRef="Script-File-Icon" iconOverRef="Script-File-Over-Icon" caption="RenameLayerToDoc" scripturl="C:\Users\Admin\Dropbox\Photoshop_Scripts\sr_RenameLayerToDoc_v1.0.jsx"/>
+  </DisplayObjects>
+</Panel>

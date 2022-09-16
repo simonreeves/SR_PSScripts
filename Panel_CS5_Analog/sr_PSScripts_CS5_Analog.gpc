@@ -1,0 +1,28 @@
+<gpc defaultLocale="en_US" version="3" keySequence="57" currentLocale="en_US">
+  <product appid="PHSP" version="12" name="Photoshop CS5/CS5.1"/>
+  <target id="PHSP-12"/>
+  <ConfiguratorPanel name="sr_PSScripts" width="300" height="234" init="doInit" close="doClose" persistent="True" extensionId="com.configurator.sr_PSScripts" extensionVersion="1.0.0" menuName="sr_PSScripts">
+    <extensionDescription><![CDATA[]]></extensionDescription>
+    <extensionAuthor><![CDATA[]]></extensionAuthor>
+    <onInit><![CDATA[]]></onInit>
+    <onClose><![CDATA[]]></onClose>
+    <eventListeners>
+      <function id="doInit" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+        <param id="onInit"/>
+      </function>
+      <function id="doClose" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+        <param id="onClose"/>
+      </function>
+    </eventListeners>
+    <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/key###1" toolTip="$$$/Configurator/key###2" cfgVisible="$$$/Configurator/key###3" fileUrl="$$$/Configurator/key###4" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="true" x="8" y="8" width="105" height="24"/>
+    <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/key###25" toolTip="$$$/Configurator/key###26" cfgVisible="$$$/Configurator/key###27" fileUrl="$$$/Configurator/key###28" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="true" x="121" y="133" width="146" height="24"/>
+    <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/key###21" toolTip="$$$/Configurator/key###22" cfgVisible="$$$/Configurator/key###23" fileUrl="$$$/Configurator/key###24" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="true" x="121" y="102" width="146" height="24"/>
+    <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/key###46" toolTip="$$$/Configurator/key###47" cfgVisible="$$$/Configurator/key###48" fileUrl="$$$/Configurator/key###49" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="true" x="121" y="70" width="146" height="24"/>
+    <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/key###17" toolTip="$$$/Configurator/key###18" cfgVisible="$$$/Configurator/key###19" fileUrl="$$$/Configurator/key###20" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="true" x="121" y="39" width="146" height="24"/>
+    <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###50" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###51" cfgVisible="$$$/Configurator/Attribute/visible/value###52" fileUrl="$$$/Configurator/key_###53" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="true" x="121" y="10" width="146" height="21"/>
+    <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/key###9" toolTip="$$$/Configurator/key###10" cfgVisible="$$$/Configurator/key###11" fileUrl="$$$/Configurator/key###12" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="true" x="10" y="40" width="105" height="24"/>
+    <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/key###38" toolTip="$$$/Configurator/key###39" cfgVisible="$$$/Configurator/key###40" fileUrl="$$$/Configurator/key###41" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="true" x="10" y="70" width="105" height="24"/>
+    <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/key###34" toolTip="$$$/Configurator/key###35" cfgVisible="$$$/Configurator/key###36" fileUrl="$$$/Configurator/key###37" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="true" x="10" y="102" width="105" height="24"/>
+    <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/key###54" toolTip="$$$/Configurator/key###55" cfgVisible="$$$/Configurator/key###56" fileUrl="$$$/Configurator/key###57" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="true" x="10" y="133" width="105" height="24"/>
+  </ConfiguratorPanel>
+</gpc>
